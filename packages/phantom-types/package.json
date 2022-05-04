@@ -1,0 +1,16 @@
+
+{
+    "name": "phantom-types",
+    "version": "1.0.0",
+    "description": "phantom type repro",
+    "main": "src/index.js",
+    "typings": "lib/index.d.ts",
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "typescript": "4.6.2"
+    },
+    "dependencies": {
+      "@fluidframework/container-definitions": "0.48.1000"
+    }
+  }

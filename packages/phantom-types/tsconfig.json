@@ -1,0 +1,10 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "lib/",
+    "target": "es2017",
+    "composite": true,
+    "rootDir": "src",
+    "types": ["jest"]
+  }
+}
